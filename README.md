@@ -9,4 +9,4 @@
 
 ## Image of Output
 
-![img1](passgenOPexample.png "Output 1")
+![img1](passgenOPexample1.png "Output 1")
